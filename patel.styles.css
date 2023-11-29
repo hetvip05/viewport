@@ -272,7 +272,7 @@ grid-row: 3/5;
 
 /* ---------- LARGE SCREEN STYLES ---------- */
 /* --------------- BEGIN LARGE SCREEN SIZES --------------- */
-@media screen and(min-width: 1200px) {header, footer{
+@media screen and (min-width: 1200px) {header, footer{
 background-color: var(--lime-green);
 color: var(--dark-gray);
 }
@@ -320,7 +320,7 @@ max-width: 300px;
 
 /* ---------- EXTRA LARGE SCREEN STYLES ---------- */
 /* --------------- BEGIN EXTRA LARGE SCREEN SIZES --------------- */
-@media screen and(min-width:1430px) {header, footer{
+@media screen and (min-width:1430px) {header, footer{
 background-color: var(--orange);
 padding-left: 5%;
 }
